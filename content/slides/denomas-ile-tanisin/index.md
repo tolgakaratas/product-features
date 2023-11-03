@@ -1,16 +1,16 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Denomas İle Tanışın
+summary: Denoams size nasıl yardımcı olabilir öğrenin.
 authors: []
-tags: ['Tutorials']
+tags: ['Firma Tanıtımı']
 categories: []
-date: '2019-02-05'
+date: '2023-11-01'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: white
   # Choose a code highlighting style (see Hugo docs on Chroma)
   #   Light style: github-light. Dark style: dracula (default).
-  highlight_style: dracula
+  # highlight_style: dracula
 ---
 
 ## Ajanda

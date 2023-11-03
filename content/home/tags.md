@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Mei's Slide Decks 👩🏼‍🏫
-subtitle: An example of writing _open_ slides with Markdown
+title: Denomas Slide Decks 👩🏼‍🏫
+subtitle: Presentations about products, services, partnerships
 
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
@@ -26,4 +26,4 @@ design:
     padding: ['2rem', 0, '2rem', 0]
 ---
 
-Check out my recent decks below or choose a topic to explore ✨
+Please select your presentation decks below or choose a topic to explore ✨
