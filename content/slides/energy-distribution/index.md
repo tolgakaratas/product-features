@@ -1,8 +1,8 @@
 ---
-title: Energy Distribution
-summary: How Denomas help you
-authors: [Tolga Karatas]
-tags: ['Tutorials']
+title: Denomas İle Tanışın
+summary: Denoams size nasıl yardımcı olabilir öğrenin.
+authors: []
+tags: ['Energy Distribution']
 categories: []
 date: '2023-11-07'
 slides:
@@ -13,7 +13,7 @@ slides:
 
 ## National Electricity Distribution Operations
 
-Anibal Enrique
+> Anibal Enrique
 
 ---
 
