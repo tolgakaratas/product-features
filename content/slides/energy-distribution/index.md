@@ -1,22 +1,20 @@
 ---
 title: Energy Distribution
 summary: How Denomas help you
-authors: []
-tags: ['presentation, energy']
+authors: [Tolga Karatas]
+tags: ['Tutorials']
 categories: []
 date: '2023-11-07'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  # Choose a code highlighting style (see Hugo docs on Chroma)
-  #   Light style: github-light. Dark style: dracula (default).
-  # highlight_style: dracula
 ---
 
 # Benefits of Denomas for ANDE
 
 ## National Electricity Distribution Operations
-Annibal 
+
+Anibal Enrique
+
 ---
 
 ### Improved Network Visibility
@@ -88,3 +86,5 @@ Annibal
 - You can allocate resources more efficiently, making ANDE more financially sustainable.
 
 These benefits demonstrate how Denomas can significantly enhance the performance, reliability, and efficiency of ANDE's electricity distribution network.
+
+---
