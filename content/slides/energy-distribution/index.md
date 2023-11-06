@@ -14,6 +14,7 @@ slides:
 ## National Electricity Distribution Operations
 
 > Anibal Enrique
+Denomas Official Sales Channel Partner
 
 ---
 
@@ -86,5 +87,3 @@ slides:
 - You can allocate resources more efficiently, making ANDE more financially sustainable.
 
 These benefits demonstrate how Denomas can significantly enhance the performance, reliability, and efficiency of ANDE's electricity distribution network.
-
----
